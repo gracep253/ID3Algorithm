@@ -1,0 +1,26 @@
+Past Performance Level,Days utill exam,Has Tutor,Extra Help Day,Attend Extra Help?
+A,2 Days Left,Has Tutor,Wednesday,Attend
+A,2 Days Left,Doesn't Have Tutor,Thursday,Don't Attend
+A,1 Day Left,Doesn't Have Tutor,Monday,Attend
+A,3+ Days Left,Doesn't Have Tutor,Wednesday,Don't Attend
+A,2 Days Left,Has Tutor,Thursday,Don't Attend
+A,3+ Days Left,Has Tutor,Thursday,Don't Attend
+A,2 Days Left,Doesn't Have Tutor,Monday,Attend
+A,3+ Days Left,Has Tutor,Thursday,Attend
+A,2 Days Left,Has Tutor,Thursday,Attend
+A,2 Days Left,Has Tutor,Thursday,Don't Attend
+A,1 Day Left,Has Tutor,Wednesday,Don't Attend
+A,3+ Days Left,Has Tutor,Thursday,Attend
+B,2 Days Left,Has Tutor,Wednesday,Attend
+B,1 Day Left,Doesn't Have Tutor,Monday,Attend
+B,3+ Days Left,Has Tutor,Wednesday,Don't Attend
+B,2 Days Left,Doesn't Have Tutor,Wednesday,Don't Attend
+B,3+ Days Left,Has Tutor,Thursday,Attend
+B,2 Days Left,Has Tutor,Monday,Attend
+B,1 Day Left,Has Tutor,Monday,Don't Attend
+C,1 Day Left,Doesn't Have Tutor,Monday,Don't Attend
+C,1 Day Left,Doesn't Have Tutor,Thursday,Attend
+C,3+ Days Left,Doesn't Have Tutor,Thursday,Attend
+F,1 Day Left,Doesn't Have Tutor,Thursday,Attend
+F,1 Day Left,Has Tutor,Thursday,Attend
+F,3+ Days Left,Doesn't Have Tutor,Wednesday,Attend
